@@ -33,7 +33,7 @@ def txtanalyze():
     documents = jsonString
 
    
-    text_analytics_base_url = 'https://lyarvindtextanalyticsforhealthdemo.cognitiveservices.azure.com/text/analytics/v3.1/entities/health/jobs'
+    text_analytics_base_url = 'https://xxx-yourservicenamexxx.cognitiveservices.azure.com/text/analytics/v3.1/entities/health/jobs'
 
     post_results = requests.post(text_analytics_base_url, json = documents, headers={"Ocp-Apim-Subscription-Key": subscription_key}) 
     status_code = 0
