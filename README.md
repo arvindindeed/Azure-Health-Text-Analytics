@@ -6,4 +6,4 @@
 
   **Configuration Changes**
     
-		Go to HealthTextAnalytics/local.settings.json and make sure to change the key, end point & blob SAS URL
+	Go to HealthTextAnalytics/local.settings.json and make sure to change the key, end point & blob SAS URL
