@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "credential":"408b4e5d207c4a9fb6dae1b9ccd90bbc",
+    "endpoint":"https://lyarvindtextanalyticsforhealthdemo.cognitiveservices.azure.com/",
+    "blob_connection_string": "DefaultEndpointsProtocol=https;AccountName=cogservicestorage;AccountKey=KAQeGPD6sULfzBZ4zWXbZqMPwxvcdly85swwhBIHShetmJAkVUSvhTM+EkEFI1gM5H2nMc2ybmtG54TtmULe/A==;EndpointSuffix=core.windows.net"
+  }
+}
